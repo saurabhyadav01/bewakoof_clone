@@ -8,13 +8,6 @@ Bewakoof is an online shopping website for men and women
 clothing.
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 
 ## Acknowledgements
@@ -43,10 +36,4 @@ https://github.com/saurabhyadav01
 Bewakoof is an online shopping website for men and women
 clothing.
 
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
 
