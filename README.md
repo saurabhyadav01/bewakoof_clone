@@ -38,7 +38,12 @@ Bewakoof is an online shopping website for men and women
 clothing.
 
 
-#Scrrenshot![Screenshot (71)](https://user-images.githubusercontent.com/72351102/159331741-61ec57ee-2998-4808-99c5-415a89a68f0b.png)![Screenshot (70)](https://user-images.githubusercontent.com/723![Screenshot (69)](https://user-images.githubusercontent.com/72351102/159331780-611af7fc-096a-4f86-bdf4-82e6082dd226.png)
-51102/159331757-57dc3e8b-d380-494b-bf1b-c9633b3e2ecc.png)
+#Scrrenshot
+![Screenshot (69)](https://user-images.githubusercontent.com/72351102/159331992-e936ba49-0236-4478-960b-0df28636a859.png)
 
-![Screenshot (68)](https://user-images.githubusercontent.com/72351102/159331805-681850bd-3e68-4920-8547-47b9ae1e0fb7.png)
+
+![Screenshot (70)](https://user-images.githubusercontent.com/72351102/159332018-80eb2e71-f5a3-446b-9400-950785983d32.png)
+
+
+![Screenshot (68)](https://user-images.githubusercontent.com/72351102/159332048-5be6ed27-dafc-4308-b579-946a17517c1b.png)
+
